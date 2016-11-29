@@ -1,2 +1,11 @@
 # fit-image
-fit image 可以帮助你把图片的无用像素去除掉，比如一张 500 X 500的图片，但是只有中间100 X 100有内容，其他都是空像素的点，fit-image可以帮你把这些无用的像素点去掉。
+
+## effectiveImage
+
+before
+
+![](./origin.png)
+
+after
+
+![](./translate.png)
